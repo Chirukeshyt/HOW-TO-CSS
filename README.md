@@ -1,20 +1,17 @@
 
-## DAY-1 : BOX MODEL <br>
-
+## DAY-2 : POSITIONS <br>
 
 #### >>>ASSIGNMENT-1
-![Screenshot 2024-03-19 145829](https://github.com/Chirukeshyt/HOW-TO-CSS/assets/94205908/8c03792e-b434-48ce-a038-6119a617f7eb) <br>
-
+![Screenshot 2024-03-19 230633](https://github.com/Chirukeshyt/HOW-TO-CSS/assets/94205908/1ddac991-bc7f-442c-92d6-7ed715b74981) <br>
 
 #### >>>ASSIGNMENT-2
-![Screenshot 2024-03-19 145858](https://github.com/Chirukeshyt/HOW-TO-CSS/assets/94205908/5abfcdec-415d-41eb-ba1b-39b870cd5fcf) <br>
-
+![Screenshot 2024-03-19 232317](https://github.com/Chirukeshyt/HOW-TO-CSS/assets/94205908/c1622974-8bfc-4d42-8774-20bec21e514d) <br>
 
 #### >>>ASSIGNMENT-3
-![Screenshot 2024-03-19 145929](https://github.com/Chirukeshyt/HOW-TO-CSS/assets/94205908/6b1a82e8-125f-4034-ab75-afb3e21768ae) <br>
-
-
+![Screenshot 2024-03-20 000040](https://github.com/Chirukeshyt/HOW-TO-CSS/assets/94205908/760c654c-45c7-477b-ac0a-0ff319d767e1) <br>
 
 #### >>>ASSIGNMENT-4
-![Screenshot 2024-03-19 154823](https://github.com/Chirukeshyt/HOW-TO-CSS/assets/94205908/151dde84-f5f9-4f04-9af1-7a3ad4f65c98) <br>
+![Screenshot 2024-03-20 125026](https://github.com/Chirukeshyt/HOW-TO-CSS/assets/94205908/c2c6a35d-87e0-4ba6-aa98-fda81eb55509)
+
+
 
