@@ -1,0 +1,51 @@
+
+.bg{
+    position: relative;
+    width: 750px;
+    margin: 40px auto;
+}
+.bg-img{
+    width: 100%;
+    border-radius: 16px;
+}
+.content{
+    position: absolute;
+    bottom: 80px;
+    left: 40px;
+    color: white;
+    text-align: center;
+    padding-left: 60px;
+    padding-bottom: -20px;
+    padding: center;
+}
+.btn{
+    background-color: #fff;
+    padding: 16px 30px;
+    border: none;
+    border-radius: 10px;
+    font-size: 16px;
+}
+.tint{
+    background-color: rgba(0, 0, 0, 0.386);
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0px;
+    left: 0;
+    border-radius: 20px;
+}
+.zomato{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    padding-top: 40px;
+}
+.p{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.img{
+    position: absolute;
+    position: relative;
+    width: 550px;
+}
